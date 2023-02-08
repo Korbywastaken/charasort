@@ -31,7 +31,7 @@ dataSet[dataSetVersion].options = [
       { name: "Mega Man & Bass: Challenger from the Future", key: "mmb2" },
 	  { name: "Mega Man Powered Up", key: "mmpu" },
       { name: "Super Adventure Rockman", key: "sar" },
-      { name: "Rock Man Strategy", key: "rms" },
+      { name: "Rockman Strategy", key: "rms" },
     ]
   },
   {
